@@ -1,6 +1,6 @@
 ﻿##this is the script for "First trial renpy" It is a good example of various things
 
-define s = Character('Sylvie', color="#c8ffc8")
+define s = Character('STHEylvie', color="#c8ffc8")
 define m = Character('Me', color="#c8c8ff")
 
 image bg meadow = "stormyfield_wallpaper" 
